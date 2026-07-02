@@ -1,0 +1,48 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    # Uncomment below if you have an NVIDIA GPU + nvidia-container-toolkit installed
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+
+  mcp-server:
+    build: ./mcp_server
+    container_name: mcp-server
+    environment:
+      - EMAIL_FROM=${EMAIL_FROM}
+      - EMAIL_TO=${EMAIL_TO}
+      - EMAIL_PASSWORD=${EMAIL_PASSWORD}
+    volumes:
+      - ./state:/app/state
+    restart: unless-stopped
+
+  agent:
+    build: .
+    container_name: local-agent
+    depends_on:
+      - ollama
+      - mcp-server
+    environment:
+      - OLLAMA_HOST=${OLLAMA_HOST}
+      - MODEL_NAME=${MODEL_NAME}
+      - MCP_SERVER_URL=${MCP_SERVER_URL}
+      - RUN_INTERVAL_MINUTES=${RUN_INTERVAL_MINUTES}
+      - JOB_CATEGORIES=${JOB_CATEGORIES}
+    volumes:
+      - ./output:/app/output
+      - ./state:/app/state
+    restart: unless-stopped
+
+volumes:
+  ollama_data:

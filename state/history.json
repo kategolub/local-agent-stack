@@ -1,0 +1,3438 @@
+[
+  {
+    "timestamp": "2026-06-30T13:39:48.309477Z",
+    "model": "mistral",
+    "prompt": "You are a personal automation agent. Give me a short, useful daily reminder or productivity tip. Keep it to 2-3 sentences.",
+    "result": "ERROR: 404 Client Error: Not Found for url: http://ollama:11434/api/generate"
+  },
+  {
+    "timestamp": "2026-06-30T13:56:09.863211Z",
+    "model": "mistral",
+    "prompt": "You are a personal automation agent. Give me a short, useful daily reminder or productivity tip. Keep it to 2-3 sentences.",
+    "result": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "timestamp": "2026-06-30T13:56:25.312959Z",
+    "model": "mistral",
+    "prompt": "You are a personal automation agent. Give me a short, useful daily reminder or productivity tip. Keep it to 2-3 sentences.",
+    "result": "Today, consider setting aside dedicated time for focused work without interruptions, such as using focus-enhancing apps during your most productive hours to help you achieve more in less time. Also, make sure to take regular breaks throughout the day to recharge and prevent burnout."
+  },
+  {
+    "timestamp": "2026-06-30T14:02:17.167053Z",
+    "model": "mistral",
+    "prompt": "You are a personal automation agent. Give me a short, useful daily reminder or productivity tip. Keep it to 2-3 sentences.",
+    "result": "Absolutely! Here's a productivity tip for today: \"Take a break every hour for a brief walk or stretch. This can help refresh your mind and increase focus when you return to work.\""
+  },
+  {
+    "timestamp": "2026-07-01T07:31:42.745792Z",
+    "category": "JavaScript",
+    "jobs_found": 20,
+    "jobs": [
+      {
+        "title": "Fullstack JavaScript Developer",
+        "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+        "company": "Vodworks",
+        "salary": "$2800\u20134000",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+        "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+        "company": "SysGears",
+        "salary": "\u2014",
+        "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+        "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+        "company": "BetterMe",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Senior Full Stack JS Engineer",
+        "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+        "company": "NineTwoThree",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+        "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+        "company": "DiFFreight",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432",
+        "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+        "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+        "company": "ZONE3000",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Middle Backend Developer (Node. js, TypeScript)",
+        "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+        "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432",
+        "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+        "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+        "company": "Evoplay Entertainment",
+        "salary": "\u2014",
+        "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+        "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+        "company": "ZONE3000",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+        "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+        "company": "Program-Ace",
+        "salary": "\u2014",
+        "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+        "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+        "company": "ZONE3000",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Full Stack developer (JavaScript)",
+        "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+        "company": "Rezet",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Full Stack JavaScript Developer",
+        "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+        "company": "MaybeWorks",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Senior Software Engineer FS (Java, JavaScript)",
+        "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+        "company": "Edvantis",
+        "salary": "\u2014",
+        "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Senior Test Automation Engineer JS",
+        "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+        "company": "EPAM",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Middle JavaScript Developer",
+        "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+        "company": "Y&Y Group",
+        "salary": "\u2014",
+        "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Senior JavaScript Engineer (3395)",
+        "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+        "company": "Ciklum",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+        "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+        "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+        "company": "Onseo",
+        "salary": "\u2014",
+        "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+        "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+        "company": "N-iX",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+        "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+      },
+      {
+        "title": "Playable Ads Developer (JavaScript) at 24PLAY",
+        "url": "https://jobs.dou.ua/companies/24play/vacancies/308011/",
+        "company": "24Play",
+        "salary": "\u2014",
+        "location": "\u041a\u0438\u0457\u0432",
+        "date": "9 \u0447\u0435\u0440\u0432\u043d\u044f"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-01T07:45:50.189516Z",
+    "categories": [
+      "JavaScript",
+      "AI/ML",
+      "Node.js"
+    ],
+    "results": {
+      "JavaScript": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )",
+            "url": "https://jobs.dou.ua/companies/eleven/vacancies/364106/",
+            "company": "Eleven",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Fullstack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+            "company": "Vodworks",
+            "salary": "$2800\u20134000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+            "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+            "company": "BetterMe",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+            "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+            "company": "DiFFreight",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Backend Developer (Node. js, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+            "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+            "company": "Evoplay Entertainment",
+            "salary": "\u2014",
+            "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+            "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+            "company": "Program-Ace",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack developer (JavaScript)",
+            "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+            "company": "Rezet",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+            "company": "MaybeWorks",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer FS (Java, JavaScript)",
+            "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+            "company": "Edvantis",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Test Automation Engineer JS",
+            "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+            "company": "EPAM",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+            "company": "Y&Y Group",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior JavaScript Engineer (3395)",
+            "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+            "company": "Ciklum",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+            "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+            "company": "Onseo",
+            "salary": "\u2014",
+            "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+            "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+            "company": "N-iX",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "AI/ML": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)",
+            "url": "https://jobs.dou.ua/companies/elomia/vacancies/362619/?from=list_hot",
+            "company": "Elomia Health",
+            "salary": "$1000\u20132000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "18 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Business Consultant / AI Solution Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360277/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Methodology & Enablement Lead",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360278/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Platform Architect",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360281/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Trainer",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360284/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Security Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360285/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "ML Engineer (Applied AI)",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/364098/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML engineer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364081/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "BPM Solution Engineer (Camunda / RPA / AI)",
+            "url": "https://jobs.dou.ua/companies/pivdenny/vacancies/364044/",
+            "company": "Bank Pivdenny",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle+ Android Engineer (Kotlin + AI)",
+            "url": "https://jobs.dou.ua/companies/launch-labs/vacancies/364013/",
+            "company": "Launch Labs",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Lead",
+            "url": "https://jobs.dou.ua/companies/obrio/vacancies/336805/",
+            "company": "OBRIO",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI QA Engineer",
+            "url": "https://jobs.dou.ua/companies/stellarstech/vacancies/359972/",
+            "company": "StellarsTech",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Solution Architect",
+            "url": "https://jobs.dou.ua/companies/sendpulse/vacancies/363977/",
+            "company": "SendPulse",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/mb-digital/vacancies/360033/",
+            "company": "MB Digital",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Strong General QA (with AI)",
+            "url": "https://jobs.dou.ua/companies/techmagic/vacancies/360083/",
+            "company": "TechMagic",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/phantom-defense/vacancies/355557/",
+            "company": "Phantom Defense",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "GenAI Practice Lead",
+            "url": "https://jobs.dou.ua/companies/techmagic/vacancies/352554/",
+            "company": "TechMagic",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "QA Automation Engineer (Playwright + AI)",
+            "url": "https://jobs.dou.ua/companies/xerion/vacancies/363953/",
+            "company": "Xerion",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Machine Learning Engineer",
+            "url": "https://jobs.dou.ua/companies/intellias/vacancies/363948/",
+            "company": "Intellias",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior AI Software Engineer",
+            "url": "https://jobs.dou.ua/companies/intellias/vacancies/363947/",
+            "company": "Intellias",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "Node.js": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "Senior Software Engineer (Distributed Systems)",
+            "url": "https://jobs.dou.ua/companies/toogeza/vacancies/364083/",
+            "company": "toogeza",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Middle Full-Stack developer",
+            "url": "https://jobs.dou.ua/companies/mate-academy/vacancies/364012/",
+            "company": "Mate academy",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "url": "https://jobs.dou.ua/companies/stork/vacancies/363973/",
+            "company": "Stork",
+            "salary": "$4000\u20136000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full-Stack Developer",
+            "url": "https://jobs.dou.ua/companies/kultprosvet/vacancies/363868/",
+            "company": "Kultprosvet",
+            "salary": "\u2014",
+            "location": "\u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior / Lead Full Stack Developer (Commercetools / Sanity CMS)",
+            "url": "https://jobs.dou.ua/companies/elogic/vacancies/363653/",
+            "company": "Elogic Commerce",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/key-people-rectuiting/vacancies/363864/",
+            "company": "HR Agency Key People",
+            "salary": "\u2014",
+            "location": "\u041e\u0434\u0435\u0441\u0430",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Fullstack Developer (Vue.js + TypeScript + Node.js)",
+            "url": "https://jobs.dou.ua/companies/itera-research/vacancies/363853/",
+            "company": "Itera Research",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID72455",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363775/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle/Senior Full Stack Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/dev-com/vacancies/363697/",
+            "company": "DevCom",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID73490",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363667/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer (Node + React)",
+            "url": "https://jobs.dou.ua/companies/mwdn/vacancies/363655/",
+            "company": "MWDN",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Back-End Developer",
+            "url": "https://jobs.dou.ua/companies/holy-water/vacancies/355167/",
+            "company": "HOLYWATER TECH",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Backend Engineer Node.js",
+            "url": "https://jobs.dou.ua/companies/playson/vacancies/303625/",
+            "company": "Playson",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/readeat/vacancies/363609/",
+            "company": "Readeat",
+            "salary": "\u0434\u043e\u00a0$2500",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/hatkom/vacancies/363568/",
+            "company": "Hatkom",
+            "salary": "$1000\u20134000",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Node.js Developer for CMS Core Tech",
+            "url": "https://jobs.dou.ua/companies/gr8-tech/vacancies/363566/",
+            "company": "GR8_TECH",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern Full Stack Developer (Node.js + Angular)",
+            "url": "https://jobs.dou.ua/companies/nerdysoft/vacancies/363547/",
+            "company": "NerdySoft",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Strong Middle/Senior Node.js Developer (with banking background)",
+            "url": "https://jobs.dou.ua/companies/s-pro/vacancies/363544/",
+            "company": "S-PRO",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-01T08:30:44.874363Z",
+    "categories": [
+      "JavaScript",
+      "AI/ML",
+      "Node.js"
+    ],
+    "results": {
+      "JavaScript": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )",
+            "url": "https://jobs.dou.ua/companies/eleven/vacancies/364106/",
+            "company": "Eleven",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Fullstack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+            "company": "Vodworks",
+            "salary": "$2800\u20134000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+            "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+            "company": "BetterMe",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+            "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+            "company": "DiFFreight",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Backend Developer (Node. js, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+            "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+            "company": "Evoplay Entertainment",
+            "salary": "\u2014",
+            "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+            "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+            "company": "Program-Ace",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack developer (JavaScript)",
+            "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+            "company": "Rezet",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+            "company": "MaybeWorks",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer FS (Java, JavaScript)",
+            "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+            "company": "Edvantis",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Test Automation Engineer JS",
+            "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+            "company": "EPAM",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+            "company": "Y&Y Group",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior JavaScript Engineer (3395)",
+            "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+            "company": "Ciklum",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+            "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+            "company": "Onseo",
+            "salary": "\u2014",
+            "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+            "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+            "company": "N-iX",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "AI/ML": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)",
+            "url": "https://jobs.dou.ua/companies/elomia/vacancies/362619/?from=list_hot",
+            "company": "Elomia Health",
+            "salary": "$1000\u20132000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "18 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Business Consultant / AI Solution Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360277/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Methodology & Enablement Lead",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360278/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Platform Architect",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360281/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Trainer",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360284/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Security Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360285/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Automation Engineer",
+            "url": "https://jobs.dou.ua/companies/rentberry/vacancies/358343/",
+            "company": "Rentberry",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Applied AI Engineer (LLM / RAG)",
+            "url": "https://jobs.dou.ua/companies/go-interactive/vacancies/364117/",
+            "company": "Go interactive",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Automated Quality Assurance Engineer Engineer (AQA) \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364116/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Backend developer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364108/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML Engineer (Applied AI)",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/364098/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML engineer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364081/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "BPM Solution Engineer (Camunda / RPA / AI)",
+            "url": "https://jobs.dou.ua/companies/pivdenny/vacancies/364044/",
+            "company": "Bank Pivdenny",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle+ Android Engineer (Kotlin + AI)",
+            "url": "https://jobs.dou.ua/companies/launch-labs/vacancies/364013/",
+            "company": "Launch Labs",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Lead",
+            "url": "https://jobs.dou.ua/companies/obrio/vacancies/336805/",
+            "company": "OBRIO",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI QA Engineer",
+            "url": "https://jobs.dou.ua/companies/stellarstech/vacancies/359972/",
+            "company": "StellarsTech",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Solution Architect",
+            "url": "https://jobs.dou.ua/companies/sendpulse/vacancies/363977/",
+            "company": "SendPulse",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/mb-digital/vacancies/360033/",
+            "company": "MB Digital",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Strong General QA (with AI)",
+            "url": "https://jobs.dou.ua/companies/techmagic/vacancies/360083/",
+            "company": "TechMagic",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/phantom-defense/vacancies/355557/",
+            "company": "Phantom Defense",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "Node.js": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "Mid/Senior Backend Engineer",
+            "url": "https://jobs.dou.ua/companies/solidgate/vacancies/360014/",
+            "company": "Solidgate",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer (Distributed Systems)",
+            "url": "https://jobs.dou.ua/companies/toogeza/vacancies/364083/",
+            "company": "toogeza",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Middle Full-Stack developer",
+            "url": "https://jobs.dou.ua/companies/mate-academy/vacancies/364012/",
+            "company": "Mate academy",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "url": "https://jobs.dou.ua/companies/stork/vacancies/363973/",
+            "company": "Stork",
+            "salary": "$4000\u20136000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full-Stack Developer",
+            "url": "https://jobs.dou.ua/companies/kultprosvet/vacancies/363868/",
+            "company": "Kultprosvet",
+            "salary": "\u2014",
+            "location": "\u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior / Lead Full Stack Developer (Commercetools / Sanity CMS)",
+            "url": "https://jobs.dou.ua/companies/elogic/vacancies/363653/",
+            "company": "Elogic Commerce",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/key-people-rectuiting/vacancies/363864/",
+            "company": "HR Agency Key People",
+            "salary": "\u2014",
+            "location": "\u041e\u0434\u0435\u0441\u0430",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Fullstack Developer (Vue.js + TypeScript + Node.js)",
+            "url": "https://jobs.dou.ua/companies/itera-research/vacancies/363853/",
+            "company": "Itera Research",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID72455",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363775/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle/Senior Full Stack Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/dev-com/vacancies/363697/",
+            "company": "DevCom",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID73490",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363667/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer (Node + React)",
+            "url": "https://jobs.dou.ua/companies/mwdn/vacancies/363655/",
+            "company": "MWDN",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Back-End Developer",
+            "url": "https://jobs.dou.ua/companies/holy-water/vacancies/355167/",
+            "company": "HOLYWATER TECH",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Backend Engineer Node.js",
+            "url": "https://jobs.dou.ua/companies/playson/vacancies/303625/",
+            "company": "Playson",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/readeat/vacancies/363609/",
+            "company": "Readeat",
+            "salary": "\u0434\u043e\u00a0$2500",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/hatkom/vacancies/363568/",
+            "company": "Hatkom",
+            "salary": "$1000\u20134000",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Node.js Developer for CMS Core Tech",
+            "url": "https://jobs.dou.ua/companies/gr8-tech/vacancies/363566/",
+            "company": "GR8_TECH",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern Full Stack Developer (Node.js + Angular)",
+            "url": "https://jobs.dou.ua/companies/nerdysoft/vacancies/363547/",
+            "company": "NerdySoft",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-01T09:00:48.518491Z",
+    "categories": [
+      "JavaScript",
+      "AI/ML",
+      "Node.js"
+    ],
+    "results": {
+      "JavaScript": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )",
+            "url": "https://jobs.dou.ua/companies/eleven/vacancies/364106/",
+            "company": "Eleven",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Fullstack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+            "company": "Vodworks",
+            "salary": "$2800\u20134000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+            "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+            "company": "BetterMe",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+            "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+            "company": "DiFFreight",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Backend Developer (Node. js, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+            "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+            "company": "Evoplay Entertainment",
+            "salary": "\u2014",
+            "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+            "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+            "company": "Program-Ace",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack developer (JavaScript)",
+            "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+            "company": "Rezet",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+            "company": "MaybeWorks",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer FS (Java, JavaScript)",
+            "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+            "company": "Edvantis",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Test Automation Engineer JS",
+            "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+            "company": "EPAM",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+            "company": "Y&Y Group",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior JavaScript Engineer (3395)",
+            "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+            "company": "Ciklum",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+            "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+            "company": "Onseo",
+            "salary": "\u2014",
+            "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+            "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+            "company": "N-iX",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "AI/ML": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)",
+            "url": "https://jobs.dou.ua/companies/elomia/vacancies/362619/?from=list_hot",
+            "company": "Elomia Health",
+            "salary": "$1000\u20132000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "18 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Business Consultant / AI Solution Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360277/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Methodology & Enablement Lead",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360278/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Platform Architect",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360281/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Trainer",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360284/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Security Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360285/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Automation Engineer",
+            "url": "https://jobs.dou.ua/companies/rentberry/vacancies/358343/",
+            "company": "Rentberry",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Applied AI Engineer (LLM / RAG)",
+            "url": "https://jobs.dou.ua/companies/go-interactive/vacancies/364117/",
+            "company": "Go interactive",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Automated Quality Assurance Engineer Engineer (AQA) \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364116/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Backend developer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364108/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML Engineer (Applied AI)",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/364098/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML engineer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364081/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "BPM Solution Engineer (Camunda / RPA / AI)",
+            "url": "https://jobs.dou.ua/companies/pivdenny/vacancies/364044/",
+            "company": "Bank Pivdenny",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle+ Android Engineer (Kotlin + AI)",
+            "url": "https://jobs.dou.ua/companies/launch-labs/vacancies/364013/",
+            "company": "Launch Labs",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Lead",
+            "url": "https://jobs.dou.ua/companies/obrio/vacancies/336805/",
+            "company": "OBRIO",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI QA Engineer",
+            "url": "https://jobs.dou.ua/companies/stellarstech/vacancies/359972/",
+            "company": "StellarsTech",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Solution Architect",
+            "url": "https://jobs.dou.ua/companies/sendpulse/vacancies/363977/",
+            "company": "SendPulse",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/mb-digital/vacancies/360033/",
+            "company": "MB Digital",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Strong General QA (with AI)",
+            "url": "https://jobs.dou.ua/companies/techmagic/vacancies/360083/",
+            "company": "TechMagic",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/phantom-defense/vacancies/355557/",
+            "company": "Phantom Defense",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "Node.js": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "Software Engineer, Full Stack",
+            "url": "https://jobs.dou.ua/companies/grammarly/vacancies/295009/",
+            "company": "Superhuman (formerly Grammarly)",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Mid/Senior Backend Engineer",
+            "url": "https://jobs.dou.ua/companies/solidgate/vacancies/360014/",
+            "company": "Solidgate",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer (Distributed Systems)",
+            "url": "https://jobs.dou.ua/companies/toogeza/vacancies/364083/",
+            "company": "toogeza",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Middle Full-Stack developer",
+            "url": "https://jobs.dou.ua/companies/mate-academy/vacancies/364012/",
+            "company": "Mate academy",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "url": "https://jobs.dou.ua/companies/stork/vacancies/363973/",
+            "company": "Stork",
+            "salary": "$4000\u20136000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full-Stack Developer",
+            "url": "https://jobs.dou.ua/companies/kultprosvet/vacancies/363868/",
+            "company": "Kultprosvet",
+            "salary": "\u2014",
+            "location": "\u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior / Lead Full Stack Developer (Commercetools / Sanity CMS)",
+            "url": "https://jobs.dou.ua/companies/elogic/vacancies/363653/",
+            "company": "Elogic Commerce",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/key-people-rectuiting/vacancies/363864/",
+            "company": "HR Agency Key People",
+            "salary": "\u2014",
+            "location": "\u041e\u0434\u0435\u0441\u0430",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Fullstack Developer (Vue.js + TypeScript + Node.js)",
+            "url": "https://jobs.dou.ua/companies/itera-research/vacancies/363853/",
+            "company": "Itera Research",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID72455",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363775/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle/Senior Full Stack Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/dev-com/vacancies/363697/",
+            "company": "DevCom",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID73490",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363667/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer (Node + React)",
+            "url": "https://jobs.dou.ua/companies/mwdn/vacancies/363655/",
+            "company": "MWDN",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Back-End Developer",
+            "url": "https://jobs.dou.ua/companies/holy-water/vacancies/355167/",
+            "company": "HOLYWATER TECH",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Backend Engineer Node.js",
+            "url": "https://jobs.dou.ua/companies/playson/vacancies/303625/",
+            "company": "Playson",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/readeat/vacancies/363609/",
+            "company": "Readeat",
+            "salary": "\u0434\u043e\u00a0$2500",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/hatkom/vacancies/363568/",
+            "company": "Hatkom",
+            "salary": "$1000\u20134000",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Node.js Developer for CMS Core Tech",
+            "url": "https://jobs.dou.ua/companies/gr8-tech/vacancies/363566/",
+            "company": "GR8_TECH",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-01T09:30:53.016503Z",
+    "categories": [
+      "JavaScript",
+      "AI/ML",
+      "Node.js"
+    ],
+    "results": {
+      "JavaScript": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )",
+            "url": "https://jobs.dou.ua/companies/eleven/vacancies/364106/",
+            "company": "Eleven",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Fullstack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+            "company": "Vodworks",
+            "salary": "$2800\u20134000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+            "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+            "company": "BetterMe",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+            "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+            "company": "DiFFreight",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Backend Developer (Node. js, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+            "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+            "company": "Evoplay Entertainment",
+            "salary": "\u2014",
+            "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+            "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+            "company": "Program-Ace",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack developer (JavaScript)",
+            "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+            "company": "Rezet",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+            "company": "MaybeWorks",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer FS (Java, JavaScript)",
+            "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+            "company": "Edvantis",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Test Automation Engineer JS",
+            "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+            "company": "EPAM",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+            "company": "Y&Y Group",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior JavaScript Engineer (3395)",
+            "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+            "company": "Ciklum",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+            "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+            "company": "Onseo",
+            "salary": "\u2014",
+            "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+            "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+            "company": "N-iX",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "AI/ML": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)",
+            "url": "https://jobs.dou.ua/companies/elomia/vacancies/362619/?from=list_hot",
+            "company": "Elomia Health",
+            "salary": "$1000\u20132000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "18 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Business Consultant / AI Solution Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360277/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Methodology & Enablement Lead",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360278/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Platform Architect",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360281/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Trainer",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360284/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Security Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360285/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision / AI Engineer",
+            "url": "https://jobs.dou.ua/companies/buntar-aerospace/vacancies/364141/",
+            "company": "Buntar Aerospace",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "AI Automation Engineer",
+            "url": "https://jobs.dou.ua/companies/rentberry/vacancies/358343/",
+            "company": "Rentberry",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Applied AI Engineer (LLM / RAG)",
+            "url": "https://jobs.dou.ua/companies/go-interactive/vacancies/364117/",
+            "company": "Go interactive",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Automated Quality Assurance Engineer Engineer (AQA) \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364116/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Backend developer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364108/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML Engineer (Applied AI)",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/364098/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML engineer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364081/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "BPM Solution Engineer (Camunda / RPA / AI)",
+            "url": "https://jobs.dou.ua/companies/pivdenny/vacancies/364044/",
+            "company": "Bank Pivdenny",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle+ Android Engineer (Kotlin + AI)",
+            "url": "https://jobs.dou.ua/companies/launch-labs/vacancies/364013/",
+            "company": "Launch Labs",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Lead",
+            "url": "https://jobs.dou.ua/companies/obrio/vacancies/336805/",
+            "company": "OBRIO",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI QA Engineer",
+            "url": "https://jobs.dou.ua/companies/stellarstech/vacancies/359972/",
+            "company": "StellarsTech",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Solution Architect",
+            "url": "https://jobs.dou.ua/companies/sendpulse/vacancies/363977/",
+            "company": "SendPulse",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision Engineer",
+            "url": "https://jobs.dou.ua/companies/mb-digital/vacancies/360033/",
+            "company": "MB Digital",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Strong General QA (with AI)",
+            "url": "https://jobs.dou.ua/companies/techmagic/vacancies/360083/",
+            "company": "TechMagic",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "Node.js": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "Software Engineer, Full Stack",
+            "url": "https://jobs.dou.ua/companies/grammarly/vacancies/295009/",
+            "company": "Superhuman (formerly Grammarly)",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Mid/Senior Backend Engineer",
+            "url": "https://jobs.dou.ua/companies/solidgate/vacancies/360014/",
+            "company": "Solidgate",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer (Distributed Systems)",
+            "url": "https://jobs.dou.ua/companies/toogeza/vacancies/364083/",
+            "company": "toogeza",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Middle Full-Stack developer",
+            "url": "https://jobs.dou.ua/companies/mate-academy/vacancies/364012/",
+            "company": "Mate academy",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "url": "https://jobs.dou.ua/companies/stork/vacancies/363973/",
+            "company": "Stork",
+            "salary": "$4000\u20136000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full-Stack Developer",
+            "url": "https://jobs.dou.ua/companies/kultprosvet/vacancies/363868/",
+            "company": "Kultprosvet",
+            "salary": "\u2014",
+            "location": "\u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior / Lead Full Stack Developer (Commercetools / Sanity CMS)",
+            "url": "https://jobs.dou.ua/companies/elogic/vacancies/363653/",
+            "company": "Elogic Commerce",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/key-people-rectuiting/vacancies/363864/",
+            "company": "HR Agency Key People",
+            "salary": "\u2014",
+            "location": "\u041e\u0434\u0435\u0441\u0430",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Fullstack Developer (Vue.js + TypeScript + Node.js)",
+            "url": "https://jobs.dou.ua/companies/itera-research/vacancies/363853/",
+            "company": "Itera Research",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID72455",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363775/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle/Senior Full Stack Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/dev-com/vacancies/363697/",
+            "company": "DevCom",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID73490",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363667/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer (Node + React)",
+            "url": "https://jobs.dou.ua/companies/mwdn/vacancies/363655/",
+            "company": "MWDN",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Back-End Developer",
+            "url": "https://jobs.dou.ua/companies/holy-water/vacancies/355167/",
+            "company": "HOLYWATER TECH",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Backend Engineer Node.js",
+            "url": "https://jobs.dou.ua/companies/playson/vacancies/303625/",
+            "company": "Playson",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/readeat/vacancies/363609/",
+            "company": "Readeat",
+            "salary": "\u0434\u043e\u00a0$2500",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/hatkom/vacancies/363568/",
+            "company": "Hatkom",
+            "salary": "$1000\u20134000",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Node.js Developer for CMS Core Tech",
+            "url": "https://jobs.dou.ua/companies/gr8-tech/vacancies/363566/",
+            "company": "GR8_TECH",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-01T10:00:56.063414Z",
+    "categories": [
+      "JavaScript",
+      "AI/ML",
+      "Node.js"
+    ],
+    "results": {
+      "JavaScript": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )",
+            "url": "https://jobs.dou.ua/companies/eleven/vacancies/364106/",
+            "company": "Eleven",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Fullstack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+            "company": "Vodworks",
+            "salary": "$2800\u20134000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+            "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+            "company": "BetterMe",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+            "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+            "company": "DiFFreight",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Backend Developer (Node. js, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+            "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+            "company": "Evoplay Entertainment",
+            "salary": "\u2014",
+            "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+            "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+            "company": "Program-Ace",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack developer (JavaScript)",
+            "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+            "company": "Rezet",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+            "company": "MaybeWorks",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer FS (Java, JavaScript)",
+            "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+            "company": "Edvantis",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Test Automation Engineer JS",
+            "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+            "company": "EPAM",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+            "company": "Y&Y Group",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior JavaScript Engineer (3395)",
+            "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+            "company": "Ciklum",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+            "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+            "company": "Onseo",
+            "salary": "\u2014",
+            "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+            "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+            "company": "N-iX",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "AI/ML": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)",
+            "url": "https://jobs.dou.ua/companies/elomia/vacancies/362619/?from=list_hot",
+            "company": "Elomia Health",
+            "salary": "$1000\u20132000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "18 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Business Consultant / AI Solution Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360277/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Methodology & Enablement Lead",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360278/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Platform Architect",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360281/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Trainer",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360284/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Security Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360285/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Verification Engineer (Senior Full-Stack)",
+            "url": "https://jobs.dou.ua/companies/windmill-smart-solutions/vacancies/364155/",
+            "company": "Windmill Digital",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "AI Engineer (Junior / Strong Junior)",
+            "url": "https://jobs.dou.ua/companies/smart-business/vacancies/364151/",
+            "company": "SMART business",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision / AI Engineer",
+            "url": "https://jobs.dou.ua/companies/buntar-aerospace/vacancies/364141/",
+            "company": "Buntar Aerospace",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "AI Automation Engineer",
+            "url": "https://jobs.dou.ua/companies/rentberry/vacancies/358343/",
+            "company": "Rentberry",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Applied AI Engineer (LLM / RAG)",
+            "url": "https://jobs.dou.ua/companies/go-interactive/vacancies/364117/",
+            "company": "Go interactive",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Automated Quality Assurance Engineer Engineer (AQA) \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364116/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Backend developer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364108/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML Engineer (Applied AI)",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/364098/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML engineer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364081/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "BPM Solution Engineer (Camunda / RPA / AI)",
+            "url": "https://jobs.dou.ua/companies/pivdenny/vacancies/364044/",
+            "company": "Bank Pivdenny",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle+ Android Engineer (Kotlin + AI)",
+            "url": "https://jobs.dou.ua/companies/launch-labs/vacancies/364013/",
+            "company": "Launch Labs",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Lead",
+            "url": "https://jobs.dou.ua/companies/obrio/vacancies/336805/",
+            "company": "OBRIO",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI QA Engineer",
+            "url": "https://jobs.dou.ua/companies/stellarstech/vacancies/359972/",
+            "company": "StellarsTech",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Solution Architect",
+            "url": "https://jobs.dou.ua/companies/sendpulse/vacancies/363977/",
+            "company": "SendPulse",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "Node.js": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "Solution Architect/Tech Lead Node.js/ React",
+            "url": "https://jobs.dou.ua/companies/geniusee/vacancies/207333/",
+            "company": "Geniusee",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Software Engineer, Full Stack",
+            "url": "https://jobs.dou.ua/companies/grammarly/vacancies/295009/",
+            "company": "Superhuman (formerly Grammarly)",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Mid/Senior Backend Engineer",
+            "url": "https://jobs.dou.ua/companies/solidgate/vacancies/360014/",
+            "company": "Solidgate",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer (Distributed Systems)",
+            "url": "https://jobs.dou.ua/companies/toogeza/vacancies/364083/",
+            "company": "toogeza",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Middle Full-Stack developer",
+            "url": "https://jobs.dou.ua/companies/mate-academy/vacancies/364012/",
+            "company": "Mate academy",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "url": "https://jobs.dou.ua/companies/stork/vacancies/363973/",
+            "company": "Stork",
+            "salary": "$4000\u20136000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full-Stack Developer",
+            "url": "https://jobs.dou.ua/companies/kultprosvet/vacancies/363868/",
+            "company": "Kultprosvet",
+            "salary": "\u2014",
+            "location": "\u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior / Lead Full Stack Developer (Commercetools / Sanity CMS)",
+            "url": "https://jobs.dou.ua/companies/elogic/vacancies/363653/",
+            "company": "Elogic Commerce",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/key-people-rectuiting/vacancies/363864/",
+            "company": "HR Agency Key People",
+            "salary": "\u2014",
+            "location": "\u041e\u0434\u0435\u0441\u0430",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Fullstack Developer (Vue.js + TypeScript + Node.js)",
+            "url": "https://jobs.dou.ua/companies/itera-research/vacancies/363853/",
+            "company": "Itera Research",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID72455",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363775/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle/Senior Full Stack Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/dev-com/vacancies/363697/",
+            "company": "DevCom",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID73490",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363667/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer (Node + React)",
+            "url": "https://jobs.dou.ua/companies/mwdn/vacancies/363655/",
+            "company": "MWDN",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Back-End Developer",
+            "url": "https://jobs.dou.ua/companies/holy-water/vacancies/355167/",
+            "company": "HOLYWATER TECH",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Backend Engineer Node.js",
+            "url": "https://jobs.dou.ua/companies/playson/vacancies/303625/",
+            "company": "Playson",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/readeat/vacancies/363609/",
+            "company": "Readeat",
+            "salary": "\u0434\u043e\u00a0$2500",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/hatkom/vacancies/363568/",
+            "company": "Hatkom",
+            "salary": "$1000\u20134000",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-01T10:30:59.158130Z",
+    "categories": [
+      "JavaScript",
+      "AI/ML",
+      "Node.js"
+    ],
+    "results": {
+      "JavaScript": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )",
+            "url": "https://jobs.dou.ua/companies/eleven/vacancies/364106/",
+            "company": "Eleven",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Fullstack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/vodworks/vacancies/337676/",
+            "company": "Vodworks",
+            "salary": "$2800\u20134000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Engineer (PHP + JavaScript + AI)",
+            "url": "https://jobs.dou.ua/companies/betterme/vacancies/359478/",
+            "company": "BetterMe",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (TypeScript, Adonis. js, Nest. js)",
+            "url": "https://jobs.dou.ua/companies/diffreight/vacancies/336287/",
+            "company": "DiFFreight",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "24 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior PHP / JS Developer in Hosting Development Team (#1150)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/354736/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "23 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Backend Developer (Node. js, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/280615/",
+            "company": "\"\u0406\u041d\u0424\u041e\u0422\u0415\u0425\"",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Frontend Developer (Vue, PixiJs, TypeScript)",
+            "url": "https://jobs.dou.ua/companies/evoplay-entertainment/vacancies/357716/",
+            "company": "Evoplay Entertainment",
+            "salary": "\u2014",
+            "location": "\u041b\u0456\u043c\u0430\u0441\u043e\u043b (\u041a\u0456\u043f\u0440), \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full-Stack Engineer (Node.js, JS) (#1114)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/345691/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "22 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer Slot Games (JavaScript +Java)",
+            "url": "https://jobs.dou.ua/companies/program-ace/vacancies/362593/",
+            "company": "Program-Ace",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "JavaScript Engineer in Product Platform Core Team (#1142)",
+            "url": "https://jobs.dou.ua/companies/zone3000/vacancies/353938/",
+            "company": "ZONE3000",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "17 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack developer (JavaScript)",
+            "url": "https://jobs.dou.ua/companies/rezet/vacancies/308399/",
+            "company": "Rezet",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/maybeworks/vacancies/204811/",
+            "company": "MaybeWorks",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "16 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer FS (Java, JavaScript)",
+            "url": "https://jobs.dou.ua/companies/edvantis/vacancies/362145/",
+            "company": "Edvantis",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0420\u044f\u0448\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Test Automation Engineer JS",
+            "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/362116/",
+            "company": "EPAM",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0425\u0430\u0440\u043a\u0456\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u041e\u0434\u0435\u0441\u0430, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "15 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle JavaScript Developer",
+            "url": "https://jobs.dou.ua/companies/yy-group/vacancies/361808/",
+            "company": "Y&Y Group",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "11 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior JavaScript Engineer (3395)",
+            "url": "https://jobs.dou.ua/companies/ciklum/vacancies/361668/",
+            "company": "Ciklum",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a (Pixi JS)/ TypeScript developer (Pixi JS)",
+            "url": "https://jobs.dou.ua/companies/onseo/vacancies/336831/",
+            "company": "Onseo",
+            "salary": "\u2014",
+            "location": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle Automation QA Engineer (JS/TS, C#) (#5338)",
+            "url": "https://jobs.dou.ua/companies/n-ix/vacancies/258421/",
+            "company": "N-iX",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "10 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "AI/ML": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)",
+            "url": "https://jobs.dou.ua/companies/elomia/vacancies/362619/?from=list_hot",
+            "company": "Elomia Health",
+            "salary": "$1000\u20132000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "18 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Business Consultant / AI Solution Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360277/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Methodology & Enablement Lead",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360278/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Platform Architect",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360281/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Trainer",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360284/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Security Expert",
+            "url": "https://jobs.dou.ua/companies/modus-x/vacancies/360285/?from=list_hot",
+            "company": "MODUS X",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Verification Engineer (Senior Full-Stack)",
+            "url": "https://jobs.dou.ua/companies/windmill-smart-solutions/vacancies/364155/",
+            "company": "Windmill Digital",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "AI Engineer (Junior / Strong Junior)",
+            "url": "https://jobs.dou.ua/companies/smart-business/vacancies/364151/",
+            "company": "SMART business",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Computer Vision / AI Engineer",
+            "url": "https://jobs.dou.ua/companies/buntar-aerospace/vacancies/364141/",
+            "company": "Buntar Aerospace",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "AI Automation Engineer",
+            "url": "https://jobs.dou.ua/companies/rentberry/vacancies/358343/",
+            "company": "Rentberry",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Applied AI Engineer (LLM / RAG)",
+            "url": "https://jobs.dou.ua/companies/go-interactive/vacancies/364117/",
+            "company": "Go interactive",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Automated Quality Assurance Engineer Engineer (AQA) \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364116/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Backend developer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364108/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML Engineer (Applied AI)",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/364098/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "ML engineer \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0456 \u0435\u0421\u0443\u0434",
+            "url": "https://jobs.dou.ua/companies/eurasia-foundation/vacancies/364081/",
+            "company": "Eurasia Foundation",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "BPM Solution Engineer (Camunda / RPA / AI)",
+            "url": "https://jobs.dou.ua/companies/pivdenny/vacancies/364044/",
+            "company": "Bank Pivdenny",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle+ Android Engineer (Kotlin + AI)",
+            "url": "https://jobs.dou.ua/companies/launch-labs/vacancies/364013/",
+            "company": "Launch Labs",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Lead",
+            "url": "https://jobs.dou.ua/companies/obrio/vacancies/336805/",
+            "company": "OBRIO",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI QA Engineer",
+            "url": "https://jobs.dou.ua/companies/stellarstech/vacancies/359972/",
+            "company": "StellarsTech",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "AI Solution Architect",
+            "url": "https://jobs.dou.ua/companies/sendpulse/vacancies/363977/",
+            "company": "SendPulse",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      },
+      "Node.js": {
+        "jobs_found": 20,
+        "jobs": [
+          {
+            "title": "Solution Architect/Tech Lead Node.js/ React",
+            "url": "https://jobs.dou.ua/companies/geniusee/vacancies/207333/",
+            "company": "Geniusee",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Software Engineer, Full Stack",
+            "url": "https://jobs.dou.ua/companies/grammarly/vacancies/295009/",
+            "company": "Superhuman (formerly Grammarly)",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Mid/Senior Backend Engineer",
+            "url": "https://jobs.dou.ua/companies/solidgate/vacancies/360014/",
+            "company": "Solidgate",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432, \u041b\u044c\u0432\u0456\u0432, \u0412\u0430\u0440\u0448\u0430\u0432\u0430 (\u041f\u043e\u043b\u044c\u0449\u0430), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer (Distributed Systems)",
+            "url": "https://jobs.dou.ua/companies/toogeza/vacancies/364083/",
+            "company": "toogeza",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "1 \u043b\u0438\u043f\u043d\u044f"
+          },
+          {
+            "title": "Middle Full-Stack developer",
+            "url": "https://jobs.dou.ua/companies/mate-academy/vacancies/364012/",
+            "company": "Mate academy",
+            "salary": "\u2014",
+            "location": "\u041a\u0438\u0457\u0432",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Intern JavaScript Developer (TypeScript, React, Node.js) \u2014 \u0456\u043d\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043b\u044c\u043d\u0435 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+            "url": "https://jobs.dou.ua/companies/sysgears/vacancies/324204/",
+            "company": "SysGears",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "url": "https://jobs.dou.ua/companies/stork/vacancies/363973/",
+            "company": "Stork",
+            "salary": "$4000\u20136000",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "30 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full-Stack Developer",
+            "url": "https://jobs.dou.ua/companies/kultprosvet/vacancies/363868/",
+            "company": "Kultprosvet",
+            "salary": "\u2014",
+            "location": "\u0414\u043d\u0456\u043f\u0440\u043e, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior / Lead Full Stack Developer (Commercetools / Sanity CMS)",
+            "url": "https://jobs.dou.ua/companies/elogic/vacancies/363653/",
+            "company": "Elogic Commerce",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/key-people-rectuiting/vacancies/363864/",
+            "company": "HR Agency Key People",
+            "salary": "\u2014",
+            "location": "\u041e\u0434\u0435\u0441\u0430",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Fullstack Developer (Vue.js + TypeScript + Node.js)",
+            "url": "https://jobs.dou.ua/companies/itera-research/vacancies/363853/",
+            "company": "Itera Research",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "29 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Full Stack JS Engineer",
+            "url": "https://jobs.dou.ua/companies/ninetwothree/vacancies/363779/",
+            "company": "NineTwoThree",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID72455",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363775/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Middle/Senior Full Stack Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/dev-com/vacancies/363697/",
+            "company": "DevCom",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Software Engineer ID73490",
+            "url": "https://jobs.dou.ua/companies/agileengine/vacancies/363667/",
+            "company": "AgileEngine",
+            "salary": "\u2014",
+            "location": "\u041b\u044c\u0432\u0456\u0432, \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 (\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430), \u041a\u0440\u0430\u043a\u0456\u0432 (\u041f\u043e\u043b\u044c\u0449\u0430), \u041c\u0435\u0445\u0456\u043a\u043e (\u041c\u0435\u043a\u0441\u0438\u043a\u0430), \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443 (\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f), \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Full Stack Developer (Node + React)",
+            "url": "https://jobs.dou.ua/companies/mwdn/vacancies/363655/",
+            "company": "MWDN",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Back-End Developer",
+            "url": "https://jobs.dou.ua/companies/holy-water/vacancies/355167/",
+            "company": "HOLYWATER TECH",
+            "salary": "\u2014",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Senior Backend Engineer Node.js",
+            "url": "https://jobs.dou.ua/companies/playson/vacancies/303625/",
+            "company": "Playson",
+            "salary": "\u2014",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "26 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer",
+            "url": "https://jobs.dou.ua/companies/readeat/vacancies/363609/",
+            "company": "Readeat",
+            "salary": "\u0434\u043e\u00a0$2500",
+            "location": "\u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          },
+          {
+            "title": "Backend Developer (Node.js / TypeScript)",
+            "url": "https://jobs.dou.ua/companies/hatkom/vacancies/363568/",
+            "company": "Hatkom",
+            "salary": "$1000\u20134000",
+            "location": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
+            "date": "25 \u0447\u0435\u0440\u0432\u043d\u044f"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-01T10:49:54.723688Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T11:16:38.202154Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T11:34:01.369111Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T12:08:36.710777Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T12:22:21.620066Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T12:55:23.019070Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T13:28:24.358786Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T14:01:26.032973Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T14:34:27.487187Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T15:07:30.925314Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T15:40:32.522567Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T16:13:33.980401Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T16:46:36.225601Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T17:19:38.386665Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T17:52:40.230753Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T18:38:56.130087Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T19:25:52.886872Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T20:28:56.102041Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T21:12:30.966464Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-01T22:47:04.383860Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T00:15:30.018028Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T01:02:53.262809Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T01:50:22.498851Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T02:51:48.539160Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T03:57:55.358018Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T04:44:23.806726Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T05:44:09.701895Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T06:28:29.484536Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T07:29:34.329840Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T08:14:08.821157Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T08:21:31.274279Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T08:54:32.610560Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T09:24:30.325541Z",
+    "status": "ok",
+    "summary": "ERROR calling Ollama: HTTPConnectionPool(host='ollama', port=11434): Read timed out. (read timeout=180)"
+  },
+  {
+    "timestamp": "2026-07-02T09:39:05.030621Z",
+    "status": "ok",
+    "summary": " Here are the latest job openings in AI and related fields as of July 2, 2023:\n\n1. Senior Backend Engineer (Node.js) at Bluedot - Remote\n2. Senior Node.js/TypeScript Developer at SevenPro - Remote\n3. Senior Full-stack Developer at SevenPro - Remote\n4. React Fullstack Engineer \u2014 Backend / Cloud (React Native) at All Aces Games - Remote\n5. Product Engineer at Honeytech - Kyiv, remote or international\n6. Senior Full Stack Developer (React + Node.js) at Aimprosoft - Remote\n7. Full Stack (Python + Node.js) Engineer at SoloWay Technologies - Ivano-Frankivsk, Chernivtsi, remote\n8. Node.js Tech Lead at You are launched - Remote\n9. Senior Node.js Engineer at Geniusee - Remote\n10. Lead Full-Stack Software Engineer \u2014 USA at inVerita - Remote (USA)\n11. Solution Architect/Tech Lead Node.js/ React at Geniusee - Kyiv, Lviv, Warsaw (Poland), remote\n12. Software Engineer, Full Stack at Superhuman (formerly Grammarly) - Kyiv\n13. Mid/Senior Backend Engineer at Solidgate - Kyiv, Lviv, Warsaw (Poland), remote\n14. Senior Fullstack Engineer (React + NestJS + AWS) at Jito - Remote ($5000 max salary)\n15. Senior Software Engineer (Distributed Systems) at toogeza - Remote"
+  },
+  {
+    "timestamp": "2026-07-02T10:03:30.444037Z",
+    "status": "ok",
+    "summary": " It seems like there's an error in the provided JSON data. The error message suggests that there is a missing key or value on the first line, column 2.\n\nTo resolve this issue, please check the structure of your JSON data and ensure that all objects have at least a title and URL property. If you need further assistance, feel free to ask!"
+  },
+  {
+    "timestamp": "2026-07-02T10:11:53.844358Z",
+    "status": "error",
+    "summary": "ERROR: unhandled errors in a TaskGroup (1 sub-exception)"
+  },
+  {
+    "timestamp": "2026-07-02T10:36:20.765276Z",
+    "status": "ok",
+    "summary": " It looks like there was an error sending the email due to an application-specific password issue. Please check your Google account settings, and make sure that you have enabled Less Secure App Access or generated an Application-Specific Password as necessary. You can find more information on how to do this at: https://support.google.com/mail/?p=InvalidSecondFactor"
+  },
+  {
+    "timestamp": "2026-07-02T11:10:23.358668Z",
+    "status": "ok",
+    "summary": " It seems there was an error sending the email. The issue might be related to the application-specific password required for your account. You can follow the instructions provided in the error message to resolve this issue:\n\n1. Go to <https://myaccount.google.com/apppasswords>\n2. Create a new password for the email address you are using and grant it access to the account you want to send emails from.\n3. Use the generated application-specific password when setting up your email client or automation script."
+  },
+  {
+    "timestamp": "2026-07-02T11:30:15.721648Z",
+    "status": "ok",
+    "summary": " [{\"name\":\"scrape_jobs\",\"arguments\":{\"category\":\"JavaScript\"}}]\n[{\"name\":\"scrape_jobs\",\"arguments\":{\"category\":\"AI/ML\"}}]\n[{\"name\":\"scrape_jobs\",\"arguments\":{\"category\":\"Node.js\"}}]\n[{\"name\":\"send_email\",\"arguments\":{\"subject\":\"Latest Job Listings on DOU\", \"intro\":\"We've found several exciting opportunities in JavaScript, AI/ML, and Node.js. Check your email for details!\"}}]"
+  },
+  {
+    "timestamp": "2026-07-02T12:04:38.027841Z",
+    "status": "ok",
+    "summary": " I have sent an email with the latest job listings in JavaScript, AI/ML, and Node.js fields to [etrina.golub@gmail.com](mailto:etrina.golub@gmail.com). Check your inbox for more details!"
+  },
+  {
+    "timestamp": "2026-07-02T12:38:39.546480Z",
+    "status": "ok",
+    "summary": " [{\"name\":\"scrape_jobs\",\"arguments\":{\"category\":\"JavaScript\"}}], [{\"name\":\"scrape_jobs\",\"arguments\":{\"category\":\"AI/ML\"}}], [{\"name\":\"scrape_jobs\",\"arguments\":{\"category\":\"Node.js\"}}], [{\"name\":\"send_email\",\"arguments\":{\"subject\":\"Latest tech jobs on DOU - March 2023\", \"intro\":\"Here's a digest of the latest job listings we found in JavaScript, AI/ML, and Node.js categories.\"}}]"
+  },
+  {
+    "timestamp": "2026-07-02T13:11:06.328098Z",
+    "status": "ok",
+    "summary": " The latest job listings have been found and emailed to your email address. You can find the following opportunities in JavaScript, AI/ML, and Node.js:\n\n- JavaScript Jobs (15 examples)\n    - Fullstack developer (JS, React, PHP)\n    - Frontend developer (JS/TS, React)\n    - JavaScript Full Stack Developer (React.js / Bun / Elysia.js)\n    - JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )\n    - Fullstack JavaScript Developer\n- AI/ML Jobs (30 examples)\n    - QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)\n    - Senior AI/Machine Learning Engineer [Healthcare project]\n    - AI QA Lead\n    - AI Automation Specialist\n    - Computer Vision and Machine Learning Engineer (Daylight UAV detection & tracking)\n- Node.js Jobs (15 examples)\n    - Senior Backend Engineer (Node.js)\n    - Node.js Developer (Blockchain experience)\n    - Middle Node.js Developer\n    - Middle strong Node.js Developer\n    - Senior Node.js/TypeScript Developer\n\nA total of 45 job listings have been sent to your email. Have a great day and good luck with your job search!"
+  },
+  {
+    "timestamp": "2026-07-02T13:47:36.413338Z",
+    "status": "ok",
+    "summary": " The latest job listings have been found and emailed to [etrina.golub@gmail.com](mailto:etrina.golub@gmail.com). You can find the details in the email containing subject \"Latest Job Listings on DOU\". Here are some examples of the opportunities we found for each category:\n\nJavaScript:\n- Fullstack developer (JS, React, PHP)\n- Frontend developer (JS/TS, React)\n- JavaScript Full Stack Developer (React.js / Bun / Elysia.js)\n- JavaScript Developer ( \u0440\u043e\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0456\u0441\u0456, \u041a\u0438\u0457\u0432 )\n- Fullstack JavaScript Developer\n\nAI/ML:\n- QA/\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u043a (part-time) \u0434\u043b\u044f AI \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0443 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043f\u0441\u0438\u0445\u0456\u0447\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f (\u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a)\n- Senior AI/Machine Learning Engineer [Healthcare project]\n- AI QA Lead\n- AI Automation Specialist\n- Computer Vision and Machine Learning Engineer (Daylight UAV detection & tracking)\n\nNode.js:\n- Senior Backend Engineer (Node.js)\n- Senior Full-Stack Engineer (AI-Assisted)\n- Node.js Developer (Blockchain experience)\n- Middle Node.js Developer\n- Middle strong Node.js Developer"
+  }
+]

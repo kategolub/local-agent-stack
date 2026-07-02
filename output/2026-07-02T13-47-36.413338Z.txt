@@ -1,0 +1,22 @@
+ The latest job listings have been found and emailed to [etrina.golub@gmail.com](mailto:etrina.golub@gmail.com). You can find the details in the email containing subject "Latest Job Listings on DOU". Here are some examples of the opportunities we found for each category:
+
+JavaScript:
+- Fullstack developer (JS, React, PHP)
+- Frontend developer (JS/TS, React)
+- JavaScript Full Stack Developer (React.js / Bun / Elysia.js)
+- JavaScript Developer ( робота в офісі, Київ )
+- Fullstack JavaScript Developer
+
+AI/ML:
+- QA/тестувальник (part-time) для AI стартапу в галузі психічного здоров’я (мобільний додаток)
+- Senior AI/Machine Learning Engineer [Healthcare project]
+- AI QA Lead
+- AI Automation Specialist
+- Computer Vision and Machine Learning Engineer (Daylight UAV detection & tracking)
+
+Node.js:
+- Senior Backend Engineer (Node.js)
+- Senior Full-Stack Engineer (AI-Assisted)
+- Node.js Developer (Blockchain experience)
+- Middle Node.js Developer
+- Middle strong Node.js Developer
